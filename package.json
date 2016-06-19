@@ -1,0 +1,21 @@
+{
+  "name": "meal_calculator",
+  "version": "1.0.0",
+  "description": "Thinkful",
+  "main": "meal_calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Thinkful"
+  ],
+  "author": "AGB",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^1.2.0",
+    "less": "^2.7.1"
+  }
+}
